@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **deep learning and computer vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vegetableclean/Emery](https://github.com/vegetableclean/Emery)
+- 👨‍💻 All of my projects are available at [https://github.com/vegetableclean/](https://github.com/vegetableclean/)
 
 - 📝 I regularly write articles on [https://medium.com/@usa.emery](https://medium.com/@usa.emery)
 
